@@ -1,0 +1,14 @@
+/Builds/*
+/Library/*
+/Temp/*
+/Backups/*
+
+# Visual Studio
+/.vs/
+*.csproj
+*.suo
+*.sln
+
+*.db
+*.db.meta
+Thumbs.db
